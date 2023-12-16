@@ -21,7 +21,7 @@ export default function Home() {
       <div className='home'>
         <div className='home-general'>
           <div className='home-tittle'>
-            <h2>Hi there, I'm</h2>
+            <h2>Hi there, II&apos;mm</h2>
             <h1>Flavio Bernachia</h1>
             <span ref={textRef}></span>
           </div>
